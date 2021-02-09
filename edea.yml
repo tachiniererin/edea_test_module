@@ -1,0 +1,6 @@
+name: test
+modules:
+  -
+    name: test module
+    pcb: test.kicad_pcb
+    sch: test.sch
